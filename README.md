@@ -1,6 +1,6 @@
 # axelor - ERP | CRM
 
-http://localhost:8200
+ver en "localhost:8200"
 
 User: admin 
 
