@@ -3,7 +3,7 @@ version: '3.3'
 services:
 
     aos-preview:
-        image: axelor/aos-preview-app
+        image: axelor/aos-preview-app:v6.5.3
         container_name: aos
         ports:
             - '8200:8080'
